@@ -2,6 +2,11 @@ import tkinter as tk
 import math
 import pygame
 
+
+# aksndaklsndlkasndknsd
+# lasndmlkasmdlka
+# laksndlasôknfdjaenfoúmas cma n
+
 pygame.init()
 screen = pygame.display.set_mode((700, 700))
 
@@ -85,7 +90,7 @@ while running:
         
                         
         
-    # asdkjalsdnjksdnkjansdjndkjasndjknasdkjn
+
 
     pygame.display.flip()
 
